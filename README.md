@@ -111,6 +111,7 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1480-running-sum-of-1d-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -128,4 +129,8 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
