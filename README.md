@@ -100,7 +100,6 @@ Currently solving problems in:
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/Anushka31raut
-- LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 
