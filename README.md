@@ -111,6 +111,7 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -143,5 +144,6 @@ Currently solving problems in:
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
