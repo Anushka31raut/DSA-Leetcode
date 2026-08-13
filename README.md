@@ -111,6 +111,7 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -128,6 +129,7 @@ Currently solving problems in:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -154,6 +156,7 @@ Currently solving problems in:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0015-3sum) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
