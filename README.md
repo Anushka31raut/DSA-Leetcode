@@ -114,6 +114,7 @@ Currently solving problems in:
 | [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -146,4 +147,32 @@ Currently solving problems in:
 | ------- |
 | [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
