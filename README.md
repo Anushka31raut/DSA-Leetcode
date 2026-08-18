@@ -187,4 +187,20 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
