@@ -207,4 +207,8 @@ Currently solving problems in:
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
