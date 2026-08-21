@@ -115,6 +115,7 @@ Currently solving problems in:
 | [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/1470-shuffle-the-array) |
